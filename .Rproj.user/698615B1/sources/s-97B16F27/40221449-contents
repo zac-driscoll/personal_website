@@ -1,0 +1,12 @@
+name: "personal-website"
+output_dir: "."
+navbar:
+  title: "Personal Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Leaflet Map"
+      href: leaflet_map.html
+output:
+  html_document:
+      theme: darkly
