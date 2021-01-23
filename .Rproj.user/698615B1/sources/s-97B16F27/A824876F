@@ -3,7 +3,7 @@
     "path": "~/R/projects/personal_website/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "4277711603",
     "contents": "",
     "dirty": false,
     "created": 1611407087215.0,
@@ -11,15 +11,15 @@
     "relative_order": 4,
     "properties": {
         "tempName": "Untitled2",
-        "cursorPosition": "8,16",
+        "cursorPosition": "7,7",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1611407138,
+    "lastKnownWriteTime": 1611407942,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1611407138342,
+    "last_content_update": 1611407942324,
     "read_only": false,
     "read_only_alternatives": []
 }
