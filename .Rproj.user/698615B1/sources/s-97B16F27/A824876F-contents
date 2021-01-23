@@ -1,9 +1,14 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "Zac's Website"
 left:
   - text: "Home"
-href: index.html
+    href: index.html
+  - text: "Projects"
+    menu:
+    - text: Carp Movemet
+      href: carp.html
 output:
-  html_document
+  html_document:
+    theme: darkly

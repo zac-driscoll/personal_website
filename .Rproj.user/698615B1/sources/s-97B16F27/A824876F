@@ -3,23 +3,23 @@
     "path": "~/R/projects/personal_website/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "4277711603",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1611407087215.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
         "tempName": "Untitled2",
-        "cursorPosition": "7,7",
+        "cursorPosition": "13,17",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1611407942,
+    "lastKnownWriteTime": 1611408826,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1611407942324,
+    "last_content_update": 1611408950241,
     "read_only": false,
     "read_only_alternatives": []
 }
