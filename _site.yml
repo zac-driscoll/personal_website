@@ -14,4 +14,4 @@ navbar:
           href: carp.html
 output:
   html_document:
-    theme: yeti 
+    theme: darkly 
