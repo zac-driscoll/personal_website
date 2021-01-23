@@ -7,5 +7,7 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Carp Movement"
-      href: carp.html
+    - text: "Projects"
+      menu: 
+        - text: "Carp Movement"
+          href: carp.html
