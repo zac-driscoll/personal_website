@@ -1,7 +1,4 @@
 name: "my-website"
-output:
-  html_document:
-    theme: cerulean
 output_dir: docs
 navbar:
   title: "My Website"
@@ -14,3 +11,6 @@ navbar:
       menu:
         - text: Carp Movement
           href: carp.html
+output:
+  html_document:
+    theme: cerulean
