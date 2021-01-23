@@ -1,13 +1,9 @@
-name: "personal-website"
-output_dir: "."
+name: "my-website"
+output_dir: docs
 navbar:
-  title: "Zac's Website"
-left:
-  - text: "Home"
-    href: index.html
-  - text: "Projects"
-    menu:
-    - text: Carp Movemet
-      href: carp.html
-output:
-  html_document
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
